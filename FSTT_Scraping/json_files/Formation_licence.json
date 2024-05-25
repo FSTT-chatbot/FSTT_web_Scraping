@@ -1,0 +1,440 @@
+{
+    "lst-analytique-des-donnees": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Masters en sciences de données: fouille de données, business analytiques, blockchain,",
+            "Masters orientés e-Technologies: e-Business, e-Administration et e-Logistique",
+            "Formations d’Ingénieurs dans une école d’ingénieurs à l’issue de la deuxième ou de la troisième année de licence",
+            "Data scientist",
+            "Technicien supérieur en SGBD R : installation, configuration et administration des SGBD",
+            "WebMaster et développeur de sites web dynamiques",
+            "Intégration du monde du travail dans les entreprises et les bureaux d’études"
+        ],
+        "Semestre 5": [
+            "Mathématiques pour la science des données",
+            "Structures des données avancées et théorie des graphes",
+            "Fondamentaux des bases de données",
+            "Algorithmique avancée et programmation",
+            "Développement WEB",
+            "Développement personnel et intelligence émotionnelle (Soft skills)"
+        ],
+        "Semestre 6": [
+            "Analyse et fouille de données",
+            "Systèmes et réseaux",
+            "Ingénierie des données",
+            "PFE"
+        ],
+        "Coordinnateur": "Pr.BAIDA Ouafae",
+        "Coordinnateur Email": "wbaida@uae.ac.ma"
+    },
+    "lst-biotechnologies": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Les métiers de l'enseignement primaire, secondaire.",
+            "Les métiers de la recherche appliquée et du développement dans les secteurs des biotechnologies, de l'agro- alimentaire, de l'industrie pharmaceutique,...",
+            "Les métiers de la vente (délégués médicaux, technico-commerciaux, entretien d'appareillages scientifiques...).",
+            "Les métiers du conseil (consultants, experts auprès de cabinets juridiques ou d'institutions).",
+            "Les métiers du journalisme scientifique."
+        ],
+        "Semestre 5": [
+            "Biologie moléculaire",
+            "Génétique",
+            "Enzymologie",
+            "Immunologie et immunotechnologie",
+            "Génie Microbiologique",
+            "Techniques appliquées à la Biologie"
+        ],
+        "Semestre 6 ( Option : végétale)": [
+            "Valorisation des ressources végétales et génie des biomolécules",
+            "Physiologie végétale",
+            "Biotechnologie végétale",
+            "Projet de fin d’études"
+        ],
+        "Semestre 6 ( Option : Animale)": [
+            "Ecologie appliquée à la biologie et lutte biologique",
+            "Physiologie Animale",
+            "Biotechnologie Animale",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Bouayad Noureddin",
+        "Coordinnateur Email": "nbouayad@uae.ac.ma"
+    },
+    "lst-design-industriel-et-productique": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Planification et ordonnancement des opérations de fabrication ;",
+            "Participation à l’élaboration d’un cahier de charge de produit mécanique ;",
+            "Gestion de la production mécanique ;",
+            "Maintenance des équipements mécaniques (Roulements, embrayages, pompes, …) ;",
+            "Contrôle de la conformité des produits dans les Laboratoires et Département qualité : Spécification géométriques\n        et d’état de surface, Essais Mécaniques, Traitements thermiques des matériaux ;",
+            "Intégration des Services Techniques d’Achat de vente et après-vente."
+        ],
+        "Semestre 5": [
+            "Choix des matériaux, dimensionnement et essais",
+            "Eléments de machines",
+            "Machines industrielles",
+            "Management Industriel",
+            "CAO: Conception Assistée par Ordinateur",
+            "Métrologie et Contrôle de Qualité"
+        ],
+        "Semestre 6": [
+            "FAO: Fabrication Assistée par Ordinateur",
+            "Prototypage Rapide",
+            "Innovation et créativité",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Elmesbahi Abdelilah",
+        "Coordinnateur Email": "a.mesbahi@uae.ac.ma"
+    },
+    "lst-energies-renouvelables": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Lors de cette formation, les étudiants auront à étudier les différentes formes de production des énergies renouvelables (EnR). Ils apprendront les fondements scientifiques et techniques sur l’énergie solaire (photovoltaïque, thermique), éolien, hydraulique, géothermique, l’énergie de biomasse et déchets, le stockage d’énergie, et l’efficacité énergétique."
+        ],
+        "Semestre 5": [
+            "Calcul Scientifique/Traitement du Signal",
+            "Mécanique des Fluides/Transferts Thermiques",
+            "Génie des Matériaux",
+            "Convertisseurs Statiques d’Énergie Électrique",
+            "Électrotechnique et Machines Électriques",
+            "Production des Énergies Renouvelables"
+        ],
+        "Semestre 6": [
+            "Énergie Solaire",
+            "Énergie Éolienne",
+            "Maintenance et fiabilité/Gestion de projets- Législation",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Ahachad Mohammed",
+        "Coordinnateur Email": "mahachad@uae.ac.ma"
+    },
+    "lst-genie-civil": {
+        "Description": "Description not found.",
+        "Competences": [
+            "La licence Génie Civil conduit vers un Master ou une formation d’ingénieur. Elle permet égalementune insertion professionnelle, grâce aux différentes compétences acquises durant ce parcours.",
+            "Cette insertion peut être dans des secteurs d’activités, comme des bureaux d’études ‘en Génie Civil, en environnement, en aménagement… etc), des entreprises du secteur du bâtiment et des travaux publics, des cabinets de maîtrise d’œuvre, des services de maîtrise d’œuvre, des services d’ouvrages ou de bureaux de contrôle technique."
+        ],
+        "Semestre 5": [
+            "Mécanique des milieux continus et Outils Techniques en Génie Civil",
+            "Résistance des matériaux",
+            "Béton armé",
+            "Mécanique des sols et notions de base de la géotechnique",
+            "Matériaux de construction",
+            "Méthodes numériques et calcul scientifique"
+        ],
+        "Semestre 6": [
+            "Analyse et calcul des structures",
+            "Électricité du bâtiment",
+            "Hydraulique et Assainissement",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.MABSSOUT Mokhtar",
+        "Coordinnateur Email": "mmabssout@uae.ac.ma"
+    },
+    "lst-8-genie-des-procedes": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Mettre l’étudiant au cœur des problèmes technologique réel qu’il devra résoudre.",
+            "Le futur lauréat doit convaincre le secteur industriel et laboratoires de ses capacités scientifiques, multidisciplinaires, décisionnelles et organisationnelles."
+        ],
+        "Semestre 5": [
+            "Calculs des réacteurs",
+            "Bilan Matière et Énergie",
+            "Opérations Unitaires",
+            "Mécanique des fluides et Hydraulique",
+            "Optimisation des Procédés Industrielle",
+            "Modélisation des processus et Régulation des Procédés"
+        ],
+        "Semestre 6": [
+            "Matériaux et Industrie chimique",
+            "Procédés de Dépollution",
+            "Valorisation des Ressources",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.AZAAR Khalid",
+        "Coordinnateur Email": "k.azaar@uae.ac.ma"
+    },
+    "lst-genie-electrique-option-genieelectrique-systeme-industriel": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Électronique de contrôle, de mesure et de commande.",
+            "Traitement et analyse du signal.",
+            "Principe de fonctionnement et le domaine d’application des machines électriques.",
+            "Électronique de puissance.",
+            "Automates programmables.",
+            "Techniques de commande de processus industriels.",
+            "Systèmes à microprocesseur.",
+            "Réseaux informatique.",
+            "Bases de données.",
+            "Gestion de la maintenance."
+        ],
+        "Semestre 5": [
+            "Traitement de signal & Télécommunication",
+            "Actionneurs industriels",
+            "Électronique et systèmes",
+            "Automatismes",
+            "Électronique de puissance",
+            "Gestion de maintenance et sûreté de fonctionnement"
+        ],
+        "Semestre 6": [
+            "Management du projet",
+            "Microcontrôleur microprocesseur",
+            "Réseaux et base de données",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr. Mekrini Zineb",
+        "Coordinnateur Email": "zmekrini@uae.ac.ma"
+    },
+    "lst-genie-industriel": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Métiers de l’ingénieur : Production ; Méthodes ; Maintenance ; Management de la qualité.",
+            "Poursuite des études en Master ou en cycle d’ingénieur."
+        ],
+        "Semestre 5": [
+            "Machines Hydrauliques",
+            "Gestion de production",
+            "Machines Thermiques",
+            "Gestion de la qualité",
+            "Gestion de la maintenance et sureté de fonctionnement",
+            "Matériaux et RDM"
+        ],
+        "Semestre 6": [
+            "Logistique et Supply Chain Management",
+            "Optimisation des Systèmes",
+            "Management de projet",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Hassan El M’rabet",
+        "Coordinnateur Email": "helmramet@uae.ac.ma"
+    },
+    "lst-genie-informatique": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Technicien supérieur en développement d’application en C++ et JAVA ; Technicien supérieur en réseaux locaux ; Technicien supérieur en SGBD-R : installation, configuration et administration des SGBD ; WebMaster et développeur des sites web dynamiques, ...",
+            "Les orientations potentielles de poursuite des études sont de type : Masters à dominance informatique, Masters orientés e-Technologies, Masters à dominance automatique ou informatique industrielle ou informatique décisionnelle et Formations d’ingénieurs."
+        ],
+        "Semestre 5": [
+            "Programmation Orientée Objet en C++",
+            "Bases de Données",
+            "Architecture C/S et Développement Web Dynamique",
+            "Introduction aux Réseaux Informatiques",
+            "Système d’exploitation UNIX/Linux",
+            "TEC & Anglais"
+        ],
+        "Semestre 6": [
+            "Modélisation UML",
+            "Programmation Orientée Objet en Langage JAVA",
+            "Les Réseaux TCP/IP",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Boudhir Anouar Abdelhakim",
+        "Coordinnateur Email": "aboudhir@uae.ac.ma"
+    },
+    "lst-geosciences-appliquees": {
+        "Description": "Description not found.",
+        "Competences": [
+            "L’expertise et Cartographie.",
+            "La Géotechnique et Géo-matériaux (achat et vente du matériel de génie géologique).",
+            "L’environnement (technicien de l’environnement)."
+        ],
+        "Semestre 5": [
+            "Pétrographie/Minéralogie",
+            "Environnements sédimentaires",
+            "Élément de tectonique/Domaines structuraux du Maroc",
+            "Ressources hydriques",
+            "Géochimie et pollution urbaine",
+            "Pédologie"
+        ],
+        "Semestre 6": [
+            "Traitement des données géologiques",
+            "Cartographie numérique",
+            "Géologie appliquée",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Wahbi Miriam",
+        "Coordinnateur Email": "mwahbi@uae.ac.ma"
+    },
+    "lst-ingenierie-de-developpement-dapplications-informatiques": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Technicien supérieur en développement d’application en C++ et JAVA",
+            "Technicien supérieur en réseaux locaux : installation, configuration et administration des réseaux locaux",
+            "Technicien supérieur en SGBD R : installation, configuration et administration des SGBD",
+            "WebMaster et développeur de sites web dynamiques",
+            "Poursuivre des études supérieures en Informatique"
+        ],
+        "Semestre 5": [
+            "Modélisations avancée et Méthodes de génie logiciel",
+            "Développement Web",
+            "Base de données Structurées et non Structurées",
+            "Programmation Orientée Objet en C++/Java",
+            "Systèmes et réseaux informatiques",
+            "Développement de soft skills"
+        ],
+        "Semestre 6": [
+            "Innover, Entreprendre et s’initier à la Gestion d'une Entreprise avec un ERP",
+            "Initiation en développement mobile et Edge Computing",
+            "Développement web avancé Back end (Python)",
+            "PFE"
+        ],
+        "Coordinnateur": "Pr.KOUNAIDI Mohamed",
+        "Coordinnateur Email": "m.kounaidi@@uae.ac.ma"
+    },
+    "lst-ingenierie-statistique": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Formation académique en mathématiques fondamentales et statistiques mathématiques offrant ainsi la possibilité de poursuivre les études en Master fondamental ou professionnel.",
+            "Maîtrise de l’outil informatique et les logiciels statistiques spécialisés.",
+            "Capacité à concevoir et à mener des études statistiques offrant des perspectives professionnelles dans différents secteurs socio-économiques et industriels."
+        ],
+        "Semestre 5": [
+            "Topologies dans les espaces métriques",
+            "Intégration",
+            "Probabilités avancées",
+            "Recherche Opérationnelle",
+            "Concept de base de Programmation avancée C++",
+            "Analyse des données"
+        ],
+        "Semestre 6": [
+            "Statistique Mathématique",
+            "MSP",
+            "Régression–Anova",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.El Merzguioui Mhamed",
+        "Coordinnateur Email": "melmerzguioui@uae.ac.ma"
+    },
+    "lst-mathematiques-et-applications": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Les entreprises et les bureaux d’études ;",
+            "La poursuite des études en cycle ingénieur ;",
+            "La poursuite des études en cycle Master ;",
+            "L’enseignement public ou privé."
+        ],
+        "Semestre 5": [
+            "Topologies dans les espaces métriques",
+            "Intégration",
+            "Probabilités avancées",
+            "Recherche Opérationnelle",
+            "Concepts de base de programmation orientée C",
+            "Analyse numérique matricielle"
+        ],
+        "Semestre 6": [
+            "Calcul différentiel et équations différentielles",
+            "Topologie générale et distributions",
+            "Analyse numérique des équations différentielles",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Lahrouz Adil",
+        "Coordinnateur Email": "a.lahrouz1@uae.ac.ma"
+    },
+    "lst-mathematiques-et-informatique-decisionnelles": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Master de mathématiques et informatique (fondamental, spécialisé ou professionnel) dans une université marocaine ou étrangère.",
+            "Intégration (sur concours ou dossier) des écoles d'ingénieurs",
+            "Administration",
+            "Industries et commerce",
+            "Sociétés financières.",
+            "Bureaux d’études"
+        ],
+        "Semestre 5": [
+            "Base de données Relationnelles et Nosql",
+            "POO/ Développement web",
+            "Intégration et Probabilités",
+            "Topologie et Calcul différentiel",
+            "Optimisation non linéaire et recherche opérationnelle",
+            "Anglais et Management de Projet"
+        ],
+        "Semestre 6": [
+            "PYTHON ET MACHINE LEARNING",
+            "Mathématiques pour l'Intelligence Artificiel",
+            "Analyse numérique et équations différentielles",
+            "PFE"
+        ],
+        "Coordinnateur": "Pr.LAHROUZ Adil",
+        "Coordinnateur Email": "a.lahrouz@uae.ac.ma"
+    },
+    "lst-rrn": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Observatoire National des Risques Naturels,",
+            "Bureaux d’étude,",
+            "Laboratoire d’étude (LPEE),",
+            "Organismes gestionnaires des ressources hydriques, de sols, minières, ,",
+            "Les institutions administratives et professionnelles,",
+            "Les institutions de recherche scientifique et technique,",
+            "Etc."
+        ],
+        "Semestre 5": [
+            "Risques et ressources naturels",
+            "Techniques géophysiques/géotechniques/géochimiques",
+            "Techniques géomatiques",
+            "Informatiques",
+            "Modélisation et analyse de données",
+            "Soft Skills"
+        ],
+        "Semestre 6 ( Option : Risques naturels)": [
+            "Risques géologiques",
+            "Risques hydroclimatiques",
+            "Risques naturels et aménagement",
+            "Projet de fin d’études"
+        ],
+        "Semestre 6 ( Option : Ressources naturelles)": [
+            "Géoressources Naturelles",
+            "Bioressources Naturelles",
+            "Valorisation et durabilité des ressources",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Bouzid Saida",
+        "Coordinnateur Email": "sbouzid@uae.ac.ma"
+    },
+    "lst-statistique-et-science-des-donnees": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Master de mathématiques et informatique (fondamental, spécialisé ou professionnel) dans une université marocaine ou étrangère.",
+            "Intégration (sur concours ou dossier) des écoles d'ingénieurs",
+            "Administration",
+            "Industries et commerce",
+            "Sociétés financières.",
+            "Bureaux d’études"
+        ],
+        "Semestre 5": [
+            "Base de données Relationnelles et NoSQL",
+            "Programmation orientée objet et Développement Web",
+            "Statistique Inférentielle et Recherche Opérationnelle",
+            "Intégration et Probabilités",
+            "Analyse des Données et Datamining",
+            "Anglais et Management de Projet"
+        ],
+        "Semestre 6": [
+            "Programmation Python et Machine Learning",
+            "Mathématiques pour l’Intelligence Artificielle",
+            "Régression – Anova et Maîtrise Statistique des Procédés",
+            "PFE"
+        ],
+        "Coordinnateur": "Pr.EL MERZGUIOUI Mhamed",
+        "Coordinnateur Email": "melmerzguioui@uae.ac.ma"
+    },
+    "lst-techniques-danalyses-chimiques": {
+        "Description": "Description not found.",
+        "Semestre 5": [
+            "Chimie organique avancée",
+            "Chimie inorganique",
+            "Thermochimie, Cinétique et Catalyse",
+            "Electrochimie et Méthodes électro-analytiques",
+            "Méthodes Spectroscopiques",
+            "Techniques d’analyse inorganiques"
+        ],
+        "Semestre 6": [
+            "Techniques Séparatives",
+            "Chimie et analyse des eaux",
+            "Assurance qualité dans les laboratoires d’analyses chimiques",
+            "Projet de fin d’études"
+        ],
+        "Coordinnateur": "Pr.Chabbi Mohamed",
+        "Coordinnateur Email": "Jbilou Mohammed"
+    }
+}

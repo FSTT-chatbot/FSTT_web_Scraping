@@ -1,0 +1,191 @@
+{
+        "formation BCG": {
+            "Description": "Le tronc commun BCG est un cursus qui comporte un ensemble de modules pris dans plusieurs champs disciplinaires et ayant pour objectif de faire acquérir des connaissances, des aptitudes et des compétences. Donner à l’étudiant les outils méthodologique pour qu’il puisse organiser son travail et développer un esprit de synthèse, de rigueur et d’initiative.\nL’objectif de cette formation et de donner à l’étudiant les possibilités d'orienter sa carrière vers les licences de chimie, de biologie et de géologie.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs de notre établissement ainsi qu’au concours nationaux ou internationaux des écoles d’ingénieurs.",
+            "Semestres": {
+                "Semestre 1": {
+                    "modules": [
+                        "Biologie cellulaire",
+                        "Optique et Radioactivité",
+                        "Cosmologie & Géodynamique interne",
+                        "Structure de la matière",
+                        "Algèbre",
+                        "Langues et Communication -LC1"
+                    ]
+                },
+                "Semestre 2": {
+                    "modules": [
+                        "Biologie animale",
+                        "Thermodynamique/ Mécanique des fluides",
+                        "Géodynamique externe",
+                        "Réactivité chimique",
+                        "Analyse",
+                        "Langues et Communication –LC2"
+                    ]
+                },
+                "Semestre 3": {
+                    "modules": [
+                        "Biologie végétale",
+                        "Électricité",
+                        "Stratigraphie & Paléo-environnement",
+                        "Chimie Organique 1",
+                        "Chimie Minérale 1",
+                        "Probabilités/Statistiques"
+                    ]
+                },
+                "Semestre 4": {
+                    "modules": [
+                        "Biochimie structurale",
+                        "Microbiologie",
+                        "Chimie organique 2/ chimie minérale 2",
+                        "Biochimie métabolique",
+                        "Base de données",
+                        "Langues et Communication –LC3"
+                    ]
+                }
+            },
+            "Coordinator": "Pr.Chouaibi Nour Eddine",
+            "Coordinator Email": "n.chouaibi@uae.ac.ma"
+        },
+        "formation GE/GM": {
+            "Description": "L’objectif du tronc commun GE/GM est de donner à l’étudiant une base solide en matières scientifiques (physique, chimie et mathématiques etc…) et techniques (Electrotechnique, Automatique, mécanique et instrumentation et métrologie) qui vont lui permet de continuer ses études en licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter à d’autres licences des autres troncs communs comme MIP et MIPC.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours nationaux ou internationaux des écoles d’ingénieurs.",
+            "Semestres": {
+                "Semestre 1": {
+                    "modules": [
+                        "Circuits électriques et électroniques",
+                        "Electricité",
+                        "Analyse 1 : Fonction d’une variable réelle",
+                        "Algèbre 1 : Polynômes et espaces vectoriels",
+                        "Algorithmique et Programmation 1",
+                        "Langues et Communication -LC1"
+                    ]
+                },
+                "Semestre 2": {
+                    "modules": [
+                        "Thermodynamique",
+                        "Mécanique du point et Optique géométrique",
+                        "Analyse 2 : Calcul intégral et équations différentielles",
+                        "Algèbre 2 : Réduction des endomorphismes et formesquadratiques",
+                        "Structure de la matière",
+                        "Langues et Communication –LC2"
+                    ]
+                },
+                "Semestre 3": {
+                    "modules": [
+                        "Mécanique des Solides",
+                        "Electronique",
+                        "Statistique descriptive/probabilités",
+                        "Algorithmique et Programmation 2",
+                        "Métrologie et instrumentation",
+                        "Gestion"
+                    ]
+                },
+                "Semestre 4": {
+                    "modules": [
+                        "Electrotechnique",
+                        "Automatique",
+                        "Fabrication mécanique",
+                        "Construction mécanique",
+                        "Informatique 3",
+                        "Analyse numérique"
+                    ]
+                }
+            },
+            "Coordinator": "Pr.Jbilou Mohammed",
+            "Coordinator Email": "mjbilou@uae.ac.ma"
+        },
+
+        "formation MIP": {
+            "Description": "L’objectif du tronc commun MIP est de donner à l’étudiant une base solide dans les matières scientifiques (physique, chimie et mathématiques etc…) qui vont lui permettre de continuer ses études dans les semestres S5 et S6 des cycles licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter vers d’autres troncs communs comme MIPC et GE/GM.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans notre établissement et aussi à des concours nationaux ou internationaux des écoles d’ingénieurs.",
+            "Semestres": {
+                "Semestre 1": {
+                    "modules": [
+                        "Circuits électriques et électroniques",
+                        "Electricité",
+                        "Analyse 1 : Fonction d’une variable réelle",
+                        "Algèbre 1 : Polynômes et espaces vectoriels",
+                        "Algorithmique et Programmation 1",
+                        "Langues et Communication -LC1"
+                    ]
+                },
+                "Semestre 2": {
+                    "modules": [
+                        "Thermodynamique",
+                        "Mécanique du point et Optique géométrique",
+                        "Analyse 2 : Calcul intégral et équations différentielles",
+                        "Algèbre 2 : Réduction des endomorphismes et formes quadratiques",
+                        "Structure de la matière",
+                        "Langues et Communication –LC2"
+                    ]
+                },
+                "Semestre 3": {
+                    "modules": [
+                        "Mécanique des Solides",
+                        "Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples",
+                        "Statistique descriptive/probabilités",
+                        "Algorithmique et Programmation 2",
+                        "Réactivité chimique",
+                        "LC3"
+                    ]
+                },
+                "Semestre 4": {
+                    "modules": [
+                        "Électromagnétisme",
+                        "Mécanique quantique et Relativité",
+                        "Analyse 4: Séries de fonctions et calcul des résidus",
+                        "Structure de données en C",
+                        "Chimie organique 1",
+                        "Chimie minérale 1"
+                    ]
+                }
+            },
+            "Coordinator": "Pr.Jbilou Mohammed",
+            "Coordinator Email": "mjbilou@uae.ac.ma"
+        },
+        "formation MIPC": {
+            "Description": "L’objectif du tronc commun MIPC est de donner à l’étudiant une base solide dans les matières scientifiques (physique, chimie et mathématiques etc…) qui vont lui permettre de continuer ses études dans les semestres S5 et S6 des cycles licences qui émanent de ce parcours tout en gardant la possibilité de se réorienter vers d’autres troncs communs comme MIP et GE/GM.\nÉgalement, ce tronc commun permet à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans notre établissement et aussi à des concours nationaux ou internationaux des écoles d’ingénieurs.",
+            "Semestres": {
+                "Semestre 1": {
+                    "modules": [
+                        "Circuits électriques et électroniques",
+                        "Electricité",
+                        "Analyse 1 : Fonction d’une variable réelle",
+                        "Algèbre 1 : Polynômes et espaces vectoriels",
+                        "Algorithmique et Programmation 1",
+                        "Langues et Communication -LC1"
+                    ]
+                },
+                "Semestre 2": {
+                    "modules": [
+                        "Thermodynamique",
+                        "Mécanique du point et Optique géométrique",
+                        "Analyse 2 : Calcul intégral et équations différentielles",
+                        "Algèbre 2 : Réduction des endomorphismes et formesquadratiques",
+                        "Structure de la matière",
+                        "Langues et Communication –LC2"
+                    ]
+                },
+                "Semestre 3": {
+                    "modules": [
+                        "Électromagnétisme",
+                        "Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples",
+                        "Statistique descriptive/probabilités",
+                        "Algorithmique et Programmation 2",
+                        "Réactivité chimique",
+                        "LC3"
+                    ]
+                },
+                "Semestre 4": {
+                    "modules": [
+                        "Mécanique des Solides",
+                        "Mécanique quantique et Relativité",
+                        "Analyse 4: Séries de fonctions et calcul des résidus",
+                        "Structure de données en C",
+                        "Chimie organique 1",
+                        "Chimie minérale 1"
+                    ]
+                }
+            },
+            "Coordinator": "Pr.Jbilou Mohammed",
+            "Coordinator Email": "mjbilou@uae.ac.ma"
+        }
+    }

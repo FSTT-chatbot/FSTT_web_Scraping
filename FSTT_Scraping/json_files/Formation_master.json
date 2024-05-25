@@ -1,0 +1,632 @@
+{
+    "mst-analyse-appliquee-etingenierie-statistique": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Donner une formation mathématique et statistique de haut niveau et vise à développer les compétences en communication et l'autonomie des étudiants.",
+            "Connaissance de méthodes mathématiques et statistiques pour la résolution de problèmes issus d'autres disciplines (physique, chimie, biologie, informatique, économie, etc.).",
+            "Compréhension et analyse de documents scientifiques et de grandes bases de données.",
+            "Conduite d'un projet d'une durée d’un semestre.",
+            "Rédaction de rapports et présentation d'exposés de nature mathématique.",
+            "Préparation à l'agrégation de mathématiques et concours des professeurs de second cycle.",
+            "Ingénieur en simulation numérique"
+        ],
+        "Semestre 1": [
+            "Statistique mathématique (inférence 1)",
+            "Programmation avancée",
+            "Compléments d’analyses",
+            "Compléments d’algèbres",
+            "Analyse Numérique Matricielle et Calcul Parallèle",
+            "Équation différentielle stochastique (EDS)"
+        ],
+        "Semestre 2": [
+            "Théorie des EDP",
+            "Statistiques décisionnelles et simulation",
+            "Analyse fonctionnelle appliquée I",
+            "Les éléments finis et calculs scientifiques",
+            "Optimisation et contrôle optimale",
+            "Anglais Scientifique I (Soft Skills)"
+        ],
+        "Semestre 3 - SA": [
+            "Analyses de données & BIG DATA",
+            "ANOVA & Modèles MIXTES",
+            "Techniques de Sondages",
+            "Statistique des valeurs extrêmes",
+            "Séries chronologiques",
+            "Anglais Scientifiques II (Soft Skills)"
+        ],
+        "Semestre 3 - SM": [
+            "Homogénéisation et Analyses asymptotiques",
+            "Modélisation 1 et Système dynamiques",
+            "Réseaux de Neurones et Apprentissage Automatique & Programmation avancée 2",
+            "Espaces Lebesgue et Sobolev & Méthode variationelle",
+            "Analyses numériques des systèmes hyperboliques & Méthodes des volumes finis",
+            "Analyse numérique"
+        ],
+        "Coordinnateur": "Pr.EL HALIMI Rachid",
+        "Coordinnateur Email": "r.elhalimi@uae.ac.ma"
+    },
+    "mst-bases-cellulaires-etmoleculaires-en-": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Secteur public : chercheur, responsable, ingénieur dans des organismes dépendant de plusieurs ministères en particulier, du ministère de l’environnement, de l’agriculture et pêches maritimes, santé publique, éducation nationale et recherche scientifique ainsi que le ministère de l’intérieur.",
+            "Industries : Ingénieur et chef d’équipe en industrie agroalimentaire, pharmaceutique, médicale et toute industrie ayant un pôle Biotechnologie.",
+            "Service : poste de responsabilité dans les laboratoires publics ou privés d’analyse et de contrôle, organismes d’expertise, service vétérinaire et agricole, service de douanes, services spécialisés dans la gestion et le traitement des eaux, des déchets, bureaux d'études, hygiène et sécurité alimentaire, etc"
+        ],
+        "Semestre 1": [
+            "Techniques Expérimentales en Biotechnologie",
+            "Biologie Moléculaire",
+            "Technologie d’ADN recombinant",
+            "Communication cellulaire et voies de signalisation",
+            "BioInformatique",
+            "Du protocole expérimental à la rédaction scientifique"
+        ],
+        "Semestre 2": [
+            "Microbiologie Appliquée",
+            "Génomique",
+            "Concepts de Base en Génétique Quantitative",
+            "Protéomique",
+            "Technologie de transformation et de valorisation des bio-ressources",
+            "Système de Management intégré QSE"
+        ],
+        "Semestre 3 - BVA": [
+            "Fonctionnement des cellules végétales",
+            "Interaction plante/Microorganismes,application en agroécologie",
+            "Technologies des PAM et des microalgues",
+            "Marqueurs moléculaires et cartographie génétique",
+            "Épidémiologie et contrôle des maladies dans les plantes de grande culture",
+            "Biotechnologie des Biomolécules"
+        ],
+        "Semestre 3 - BV": [
+            "Techniques d’amélioration et de sélection chez les plante",
+            "Pathologie microbienne des plantes",
+            "Biochimie Intégrative du Végétal",
+            "Interaction plantes-microorganismes",
+            "Lutte Biologique et Protection Intégrée des Plantes",
+            "Kit Pour l’Emploi/ Projet professionnel"
+        ],
+        "Semestre 3 - BA": [
+            "Neurobiologie Cellulaire",
+            "Biologie de développement",
+            "Pathologies et génétique moléculaire",
+            "Techniques d’amélioration et de sélection chez les animaux",
+            "Thérapie Cellulaire et Génique",
+            "Kit Pour l’Emploi/ Projet professionnel"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Mohamed NHIRI",
+        "Coordinnateur Email": "mnhiri@uae.ac.ma"
+    },
+    "mst-environnement-aquacultureet-developpement-durable": {
+        "Description": "Description not found.",
+        "Competences": [
+            "L’éventail des métiers ciblés couvre les domaines dans lesquels les diplômés de ce Master auront développé des connaissances scientifiques et un savoir-faire pratique et professionnel, notamment la production aquacole à divers niveaux de responsabilité, la création de nouveaux projets aquacoles, les industries directement liées à l'aquaculture, la transformation du poisson et de marketing. Les futurs diplômés peuvent également intégrer les institutions administratives et professionnelles, les institutions de recherche scientifique et technique, etc."
+        ],
+        "Semestre 1": [
+            "Écosystèmes aquatiques et pollution : salubrité et biosurveillance gouvernance",
+            "typologie des écosystèmes aquatiques",
+            "Ressources halieutiques (biologie, évaluation et gestion)",
+            "Téledetection et traitement d’images optiques",
+            "Analyse bio statistique/Méthodologie de la rédaction",
+            "Anglais/développement personnel"
+        ],
+        "Semestre 2": [
+            "Océanologie",
+            "Ingénierie aquacol/ gestion des entreprises aquacoles",
+            "SIG Appliqués",
+            "Pathologie des organismes aquatiques/Amélioration génétique des espèces d’élevage",
+            "Base biologique de l’aquaculture/Alimentation et nutrition en aquaculture personnel",
+            "Economie de l'environnement, des ressources naturelles renouvelables et d’aquaculture"
+        ],
+        "Semestre 3": [
+            "Gestion intégrée des zones côtières et développement durable",
+            "Commercialisation, marketing et qualité des produits de la mer qualité/valorisation Gestion de Projet",
+            "Interaction environnement /aquaculture et aquaculture intégrée",
+            "Traitements physico-chimique des eaux / Bioremédiation",
+            "Gestion de projet",
+            "Management environnemental et droit de l’environnement"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Hassan Er-RAIOUI",
+        "Coordinnateur Email": "h.erraioui@fstt.ac.ma"
+    },
+    "mst-georessources-energetiques-et-reservoirs": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Cette formation est proposée afin de former et Contribuer à la formation et la qualification de jeunes chercheurs des cadres à haut niveau capables d’intégrer les compagnies nationales et internationales opérant en géoressources énergétiques afin d’explorer de nouveaux marchés d’emplois au près des diverses compagnies pétrolières au Maroc, et également pour combler le vide en matière des cadres supérieurs qualifiés en géologie fondamentale nécessaires à plusieurs établissements universitaires, d’améliorer l’offre d’emploi sur le marché et de satisfaire le besoin en cadres des établissements privés, semi-publiques, et publiques notamment le service géologique et cartographique du ministère de l’énergie et des mines pour la revue et la réalisation de plusieurs cartes géologiques sachant bien leur utilité pour toute éventuelle exploration des ressources."
+        ],
+        "Semestre 1": [
+            "Géodynamique et Analyse des Bassins Sédimentaires",
+            "Géologie structurale et Tectonophysique",
+            "Micropaléontologie intégrée",
+            "Géologie du Maroc et systèmes pétroliers associées",
+            "Mécanique des fluides et Hydraulique",
+            "Géomatique Appliquée aux Géoressources énergétiques"
+        ],
+        "Semestre 2": [
+            "Pétrologie Sédimentaire",
+            "Sédimentologie et paléoenvironnements sédimentaires",
+            "Modélisation et Simulation Numérique en Géosciences",
+            "Télédétection Optique et Radar Appliquées aux Géoressources énergétiques",
+            "Géostatistiques et analyse des données",
+            "Anglais scientifique et Développement personnel"
+        ],
+        "Semestre 3": [
+            "Introduction aux géosciences du pétrole",
+            "Caractéristiques géologiques et pétrophysiques des réservoirs",
+            "Hydrocarbures et maturité de la Matière Organique",
+            "Interprétation 2D-3D des profils séismiques",
+            "Prospection géophysique et techniques de forage",
+            "Management et Gestion de projets"
+        ],
+        "Semestre 4": [
+            "Stage d’initiation a la recherche"
+        ],
+        "Coordinnateur": "Pr.Mohamed Najib ZAGHLOUL",
+        "Coordinnateur Email": "mzaghloul@uae.ac.ma"
+    },
+    "mst-genie-civil": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Les connaissances et compétences acquises par la présente formation dans le domaine de Génie Civil peuvent être considérées à la pointe du savoir dans cette discipline.",
+            "Ce haut niveau de qualification renforcé par un certain savoir de gérer des projets appliqués et de création d’entreprise, dispose nos lauréats d’une haute qualification leurs permettant, de choisir entre poursuivre des études doctorales, intégrer des établissements nationaux ou multinationaux œuvrant dans le domaine de génie Civil, ou la création de leur propre entreprise."
+        ],
+        "Semestre 1": [
+            "Mathématiques Pour l’Ingénieur",
+            "Calculs et Analyses des Structures",
+            "Géotechnique",
+            "Géophysique Appliquée & Géo-risques",
+            "Méthodes Numériques",
+            "Matériaux de construction"
+        ],
+        "Semestre 2": [
+            "Béton précontraint",
+            "Dynamique et calcul parasismique",
+            "Transferts thermiques et Acoustique",
+            "Béton armé",
+            "Procédés Généraux de Constructions",
+            "Routes"
+        ],
+        "Semestre 3": [
+            "Ouvrages de Génie Civil",
+            "Assainissement",
+            "Construction Métallique",
+            "Urbanisme, Architecture et Construction",
+            "Efficacité Énergétique",
+            "Management de projet & BIM appliquée"
+        ],
+        "Semestre 4": [
+            "Projet de fin d'étude"
+        ],
+        "Coordinnateur": "Pr.Dkiouak Rachid",
+        "Coordinnateur Email": "r.dkiouak@uae.ac.ma"
+    },
+    "mst-genie-des-materiaux-pour-plasturgie-et-metallurgie": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Élaboration, caractérisation et contrôle des matériaux",
+            "Exigences liées au choix des matériaux",
+            "Maîtrise des mécanismes de dégradation des matériaux et du comportement matériau/milieu"
+        ],
+        "Semestre 1": [
+            "Cristallographie et phénomènes",
+            "Métallurgie et matériaux métalliques",
+            "Formulation, rhéologie et modélisation",
+            "Verres, céramiques et matériaux",
+            "Polymères synthétiques",
+            "Anglais scientifique et communication"
+        ],
+        "Semestre 2": [
+            "Propriétés physiques et mécaniques",
+            "Métallurgie des poudres et fiabilité",
+            "Conception, modélisation et fabrication",
+            "Fonctionnalisation revêtements",
+            "Matériaux catalytiques",
+            "Gestion de projet, propriété"
+        ],
+        "Semestre 3": [
+            "Corrosion et Protection des matériaux",
+            "Techniques de caractérisation et d’analyses",
+            "Nanomatériaux et matériaux stratégiques",
+            "Mécanique de contact, tribologie",
+            "Choix des matériaux et procédés",
+            "Lean Management et analyse"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Tarik CHAFIK",
+        "Coordinnateur Email": "tchafik@uae.ac.ma"
+    },
+    "mst-genie-energetique": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Intégrer les organismes étatiques et privés en tant que cadres supérieurs, chefs de projets ;",
+            "Intégrer des bureaux d’études et éventuellement, créer leur propre bureau d’études ou leur propre entreprise ;",
+            "Créer leur propre entreprise (installation des systèmes énergétiques, audit et diagnostic énergétique, réhabilitation énergétique des bâtiments) ;"
+        ],
+        "Semestre 1": [
+            "Thermodynamique Industrielle",
+            "Transferts Thermiques",
+            "Mathématiques de l’Ingénieur",
+            "Mécanique des Fluides",
+            "Méthodes Numériques",
+            "Matériaux pour l’Énergie"
+        ],
+        "Semestre 2": [
+            "Métrologie Thermique & Échangeurs Thermiques",
+            "Production & Stockage de l’Énergie",
+            "Automatique & Régulation",
+            "Ingénierie des Procédés",
+            "Énergie Éolienne",
+            "Langues et Techniques de Communication (TEC)"
+        ],
+        "Semestre 3": [
+            "Énergétique du bâtiment",
+            "Énergie Solaire",
+            "Efficacité Énergétique",
+            "Bioénergie",
+            "Gestion de la maintenance et Sureté de fonctionnement",
+            "Gestion de Projets & Gestion d’Entreprises"
+        ],
+        "Semestre 4": [
+            "Projet de Fin d’Etudes"
+        ],
+        "Coordinnateur": "Pr.Abdessalam DRAOUI",
+        "Coordinnateur Email": "adraoui@uae.ac.ma"
+    },
+    "mst-ingenierie-environnementale-changement-climatique-et-developpement-durable": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Cadre dans le secteur privé ou public capable de faire la Diagnostic, planification et élaboration de stratégies pour le développement des régions vulnérables (Adaptation au changement climatique/ Atténuation du Changement Climatique). Concepteur de plans et dimensionnement d'installations énergétiquement efficientes, gestion et maintenance.",
+            "Cadre aux métiers verts qui sont de plus en plus sollicités par les acteurs économiques pour relever leurs défis d’intégrer les marchés internationaux, notamment de l’union européenne qui exigent des niveaux de conformité avec des normes élevés d’atténuation des émissions des Gaz à effet de serre.",
+            "Responsable de bureau de changement climatique",
+            "Chargés de mener des évaluations de risques environnementaux ; impliqués dans les procédés industriels et leurs conséquences sanitaires; concernés par la gestion de risques sanitaires liés à l'environnement.",
+            "Possédant les compétences scientifiques nécessaires à l'analyse, la prévention et le traitement des pollutions et des nuisances d'origines chimiques et capables d'effectuer des études sur les impacts environnementaux d'une activité ou d'un",
+            "aménagement, de prendre en compte les contraintes imposées par l'environnement sur les activités humaines (évaluation des risques - inondations, mouvements de terrain) et de proposer des stratégies environnementales en conformité avec les réglementations en cours.",
+            "Chercheurs dans des domaines associant la chimie ; « R&D » dans des entreprises développant un pôle environnement ou dépollution (automobiles, traitement des déchets, de l'air, industrie nucléaire); cadres dans les agences spécialisées en",
+            "environnement et les réseaux de mesure et de surveillance de la pollution atmosphérique.",
+            "Négociateurs de contrats (acquisitions ou échanges de technologies), responsables dans le domaine de la propriété intellectuelle, responsables technico-commerciaux, conseil en matière d'élaboration de programmes de développement durable."
+        ],
+        "Semestre 1": [
+            "Gestions des Ressources Hydriques et Changement Climatique",
+            "Développement Durable et Changement Climatique",
+            "Gestion des Déchets et Economie Circulaire",
+            "Analyse de Cycle de Vie et Empreinte Carbone",
+            "Formation et Traitement des Polluants Atmosphérique",
+            "Méthodes de Collecte et Analyse de Données"
+        ],
+        "Semestre 2": [
+            "Techniques d'Expressions et Anglais Scientifique",
+            "Énergies Renouvelables et Efficacité Énergétique",
+            "Télédétection et Système d'Information Géographique",
+            "Statistiques/ Plans d'Expérience et Modélisation de Process",
+            "Management Environnemental dans l'Entreprise",
+            "Écotoxicologie du Sol"
+        ],
+        "Semestre 3": [
+            "Méthodologie de la Recherche Scientifique/Conférences",
+            "Anglais Scientifique II",
+            "Accords,Négociations, Instruments de Changement Climatique",
+            "Vulnérabilité et Adaptation au Changement Climatique",
+            "Inventaire de Gaz à Effet de Serre et Atténuation au Changement Climatique",
+            "Science et Politique de Changement Climatique"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.HOUDA EL AYADI",
+        "Coordinnateur Email": "h.elayadi@uae.ac.ma"
+    },
+    "mst-intelligence-artificielle-et-sciences-de-donnees": {
+        "Description": "Description not found.",
+        "Semestre 1": [
+            "THÉORIES ET SYSTÈMES DE RAISONNEMENTS INTELLIGENTS",
+            "MATHÉMATIQUES POUR ANALYSE DE DONNÉES",
+            "PROGRAMMATION AVANCÉE",
+            "BASES DE DONNÉES AVANCÉES",
+            "MACHINE LEARNING 1",
+            "ANGLAIS ET TECHNIQUE D’EXPRESSION"
+        ],
+        "Semestre 2": [
+            "INFRASTRUCTURE ET ARCHITECTURE DES SYSTÈMES DISTRIBUES & BIG DATA",
+            "PLATEFORMES IOT CORE: TECHNOLOGIES, DATA ET IA",
+            "METAHEURISTIQUES & ALGORITHMES DE RECHERCHE STOCHASTIQUE",
+            "SMA & NLP",
+            "DATAMING & BI",
+            "DEVELOPPEMENT PERSONNEL ET INTELLIGENCE EMOTIONNELL"
+        ],
+        "Semestre 3": [
+            "MULTIMEDIA MINING AND INDEXING",
+            "MACHINE LEARNING 2 : DEEP and TRANSFERT LEARNING",
+            "DATA SPACES & DATA INTEGRATION & SEMANTIC INTEROPERABILITY",
+            "BLOCKCHAIN & SECURITE APPLICATIVE",
+            "VIRTUALIZATION, CLOUD AND EDGE COMPUTING",
+            "DIGITAL BUSINESS STRATEGIES LEADERSHIP IN THE AGE OF AI"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.EZZIYYANI MOSTAFA",
+        "Coordinnateur Email": "mezziyyani@uae.ac.ma"
+    },
+    "mst-mobiquite-et-big-data": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Big Data Architecte",
+            "Big Data Analyst",
+            "Data Scientist",
+            "Développeur Mobile",
+            "Administrateur des bases de données"
+        ],
+        "Semestre 1": [
+            "Programmation Orientée Objet Avancée : Java Et Python",
+            "Systèmes Embarqués Et Mobilité",
+            "Recherche Opérationnelle Et Théorie des Graphes",
+            "IP Mobile Et Protocoles",
+            "Administration Des Bases De Données",
+            "Anglais"
+        ],
+        "Semestre 2": [
+            "Data Mining Et Machine Learning",
+            "Statistique Descriptive Et Inférentielle",
+            "Bases Des Données Nosql",
+            "Architecture Et Technologies Big Data",
+            "Cloud Computing Et Virtualization",
+            "Soft Skills"
+        ],
+        "Semestre 3": [
+            "Analysis, Mining And Indexing In Big Multimedia Systems",
+            "Développement Mobile",
+            "Big Data Analytics",
+            "Objets Connectés Et Intelligence Artificielle Distribuée & SMA",
+            "Big Data Et Sécurité",
+            "Management De Projet Et Gestion De L'innovation"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Mohamed BEN AHMED",
+        "Coordinnateur Email": "mbenahmed@uae.ac.ma"
+    },
+    "mst-modelisation-mathematique-et-science-de-donnees": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Donner une formation mathématique et statistique-informatique de haut niveau et vise à développer les compétences en communication et l'autonomie des étudiants.",
+            "Connaissance des outils pratiques de modélisation mathématiques et d’analyse des données pour la résolution de problèmes issus d'autres disciplines (physique, chimie, biologie, informatique, économie, etc.).",
+            "Compréhension et analyse de documents scientifiques et de grandes bases de données.",
+            "Conduite d'un projet d'une durée d’un semestre.",
+            "Rédaction de rapports et présentation d'exposés de nature mathématique.",
+            "Préparation à l'agrégation de mathématiques et concours des professeurs de second cycle.",
+            "Ingénieur en simulation numérique"
+        ],
+        "Semestre 1": [
+            "Anglais Scientifique I & Soft Skils",
+            "Programmation Avancée avec Python et R",
+            "Analyse Numérique Matricielle Avancée",
+            "Modélisation et calcul fractionnaire",
+            "Equation différentielle stochastique (EDS)",
+            "Analyse fonctionnelle et applications"
+        ],
+        "Semestre 2": [
+            "Sécurité Informatique",
+            "Analyse numérique des EDPs",
+            "Séminaire / Initiation à la recherche",
+            "IA et Machine Learning",
+            "Statistiques des valeurs extrêmes",
+            "Analyse asymptotique et modélisation"
+        ],
+        "Semestre 3": [
+            "Analyses de données /BIG DATA",
+            "Modèles Mixtes et applications sous R",
+            "Semi Groupes et équation d'évolution",
+            "Optimisation et contrôle Optimal",
+            "Séries chronologiques et Méthodes de prévision",
+            "Anglais Scientifique II & Soft Skils"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.EL HALIMI Rachid",
+        "Coordinnateur Email": "r.elhalimi@uae.ac.ma"
+    },
+    "mst-sciences-agroalimentaires": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Conduite d’un projet R&D",
+            "Caractérisation physico-chimique, nutritionnelle, organoleptique et rhéologique des aliments",
+            "Méthodes d’analyse des données et d’interprétation des résultats",
+            "Formation générale à la communication et à la connaissance de l’environnement professionnel."
+        ],
+        "Semestre 1": [
+            "Procédés industriels",
+            "Techniques d’analyses des biomolécules 1",
+            "Anglais scientifique",
+            "Biochimie alimentaire",
+            "Microbiologie Alimentaire",
+            "Exploitation des Données expérimentales"
+        ],
+        "Semestre 2": [
+            "Techniques d’analyses des biomolécules 2",
+            "Production animale/Production végétale",
+            "Marketing et économie de filière",
+            "Réglementation et système de management de la santé et sécurité alimentaire",
+            "Filière de production : Transformation des produits d’origine végétale",
+            "Filière de production : Transformation des produits d’origine animale"
+        ],
+        "Semestre 3": [
+            "Formulation, et chimie des aliments",
+            "Emballage et sécurité alimentaire",
+            "Soft Skill",
+            "Analyse de cycle de vie et valorisation des bioressources et biodéchets",
+            "Valeur nutritionnelle et sensorielle",
+            "Gestion de projet"
+        ],
+        "Semestre 4": [
+            "Stage d’initiation a la recherche"
+        ],
+        "Coordinnateur": "Pr.Amin LAGLAOUI",
+        "Coordinnateur Email": "alaglaoui@uae.ac.ma"
+    },
+    "mst-sciences-delenvironnement": {
+        "Description": "Description not found.",
+        "Competences": [
+            "D’identifier et d’évaluer les différentes pollutions et de mettre en œuvre des technologies de traitements appropriés;",
+            "D’acquérir les grandes techniques d’instrumentation, d’analyse et de contrôle pour la protection de l’environnement ;",
+            "De se préparer aux carrières de recherche universitaire et industrielle;"
+        ],
+        "Semestre 1": [
+            "Procédés de séparation",
+            "Chimie de l’environnement et rejets urbains",
+            "Statistique et Simulation numérique",
+            "Microbiologie de l’Environnement",
+            "Changements climatiques",
+            "Anglais/ Expression et communication environnementale"
+        ],
+        "Semestre 2": [
+            "Fonctionnement et préservation des écosystèmes/Étude d’impact sur l’environnement",
+            "Ressources hydriques et risque de contamination",
+            "Risques environnementaux nature/ Gestion des déchets",
+            "Bio-remédiation et lutte biologique en environnement",
+            "Méthodes spectrométriques",
+            "Droit et management environnement"
+        ],
+        "Semestre 3": [
+            "Génie physico-chimique des traitements des eaux/ Dépollution atmosphérique",
+            "Environnement marin",
+            "Gestion des déchets, traitement et valorisation",
+            "Gestion intégrée des zones côtières/Développement durable",
+            "Microorganismes et Environnement",
+            "Gestion de projet"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.A.El Arrim",
+        "Coordinnateur Email": "a.elarrim@uae.ac.ma"
+    },
+    "mst-sciences-du-littoralapproche-pluridisciplinaire": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Ce projet de Master ST est pluridisciplinaire. Il vise la formation d’un potentiel humain compétent et rapidement opérationnel dans toutes les activités liées au milieu marin et littoral (Pêche et aquaculture, tourisme balnéaire, activités portuaires, pollution marine et côtière, dynamique côtière, géophysique marine et côtière, géomorphologie et érosion littorale, ressources marines, impacts des changements climatiques, gestion spatiale, aménagement du territoire etc."
+        ],
+        "Semestre 1": [
+            "Anglais scientifique",
+            "SPOC Risques Côtiers : RISCOMAR (cours en ligne)",
+            "Biologie des écosystèmes marins et côtiers",
+            "Valorisation des ressources marines",
+            "Géologie marine appliquée",
+            "Géomorphologie et dynamique du littoral"
+        ],
+        "Semestre 2": [
+            "Gestion de projets",
+            "Instrumentation pour des applications côtières et littorales",
+            "École de terrain : Approches thématiques",
+            "Océanographie physique",
+            "Introduction à la chimie des écosystèmes marins et côtiers",
+            "Droit et économie de la mer et de l’environnement littoral"
+        ],
+        "Semestre 3": [
+            "Aménagement du littoral et impacts socioéconomiques",
+            "Changements climatiques et risques côtiers",
+            "Érosion côtière et stabilité du littoral",
+            "Agro-écologie appliquée à l’aquaculture",
+            "Droit de la mer et géopolitique marine",
+            "Télédétection SIG"
+        ],
+        "Semestre 4": [
+            "Projet de Fin d’Etudes"
+        ],
+        "Coordinnateur": "Pr.Maatouk Mustapha",
+        "Coordinnateur Email": "mmaatouk@uae.ac.ma"
+    },
+    "mst-securite-it-et-big-data": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Ingénieur en Cyber Sécurité.",
+            "Spécialiste en Gouvernance de la Sécurité.",
+            "Spécialiste de sécurité applicative.",
+            "Ethical Hacker.",
+            "Expert en Cyber sécurité.",
+            "Architecte Réseaux et Systèmes sécurisé.",
+            "Big Data Architecte.",
+            "Big Data Analyst.",
+            "Administrateur sécurité réseaux."
+        ],
+        "Semestre 1": [
+            "Programmation Orientée Objet Avancée en Java / Python",
+            "Réseaux avancés",
+            "Data Mining (DM) et Systèmes d’Aide à la Décision (DAS",
+            "Administration Systèmes et Réseaux",
+            "Concepts fondamentaux de l’intelligence artificielle",
+            "Anglais et technique d’expression"
+        ],
+        "Semestre 2": [
+            "Intelligence Artificielle Distribuée (SMA) & Apprentissage Automatique (ML)",
+            "Technologies IoT: Architectes, protocoles et applications",
+            "Virtualisation, Cloud et Edge Computing",
+            "Cryptographie Et Sécurité des Services",
+            "Architecture et Technologies Big Data",
+            "Gestion de l’innovation et management de projet informatique"
+        ],
+        "Semestre 3": [
+            "Cybersecurity & Ethical hacking",
+            "Calcul Haute Performance et Applications en Big Data",
+            "Deep learning et Applications",
+            "Administration des Bases de Données Distribuées et Clusters Big Data",
+            "Audit des systèmes d’information et Management de la sécurité des systèmes d’information",
+            "Développement Personnel Et Intelligence Émotionnelle"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Abdelhamid ZOUHAIR",
+        "Coordinnateur Email": "mstsit.bd@gmail.com"
+    },
+    "mst-systemes-informatiqueset-mobiles": {
+        "Description": "Description not found.",
+        "Competences": [
+            "Administration des infrastructures informatiques des établissements",
+            "Implémentation et gestion des systèmes Cloud Computing",
+            "Réalisation d’applications mobiles pour des besoins spécifiques",
+            "Sécurité des systèmes d’information",
+            "Gestion des systèmes mobiles et des objets connectés",
+            "Administration des bases de données",
+            "Administration de la sécurité réseaux",
+            "Développement des applications Mobiles",
+            "Développement des applications pour l’Internet des Objets"
+        ],
+        "Semestre 1": [
+            "Programmation Orientée Objet",
+            "Systèmes Embarqués Et Mobilité",
+            "Théorie des Graphes et Recherche",
+            "IP Mobile Et Protocoles",
+            "Administration Des Bases De Données",
+            "Anglais"
+        ],
+        "Semestre 2": [
+            "Data Mining et Machine Learning",
+            "Scripting Shell et programmation système",
+            "Administration systèmes et réseaux",
+            "Administration systèmes et réseaux",
+            "Cloud Computing et Virtualisation",
+            "Soft Skills"
+        ],
+        "Semestre 3": [
+            "Analysis, Mining And Indexing In Big Multimedia Systems",
+            "Développement Mobile",
+            "Cyber sécurité et investigation",
+            "Objets Connectés et Intelligence",
+            "Calcul parallèle et application distribuées",
+            "Management de Projet et Gestion de l'Innovation"
+        ],
+        "Semestre 4": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.El Amrani Chaker",
+        "Coordinnateur Email": "celamrani@uae.ac.ma"
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "genie-electrique-et-managementindustriel": {
+        "Description": "La formation proposée dans la spécialité Génie Electrique de la FST de Tanger a pour but de fournir au futur ingénieur en Génie Electrique tous les éléments indispensables à son insertion harmonieuse dans le monde industriel. Les enseignements associent théorie et techniques, expérimentation, projets et réalisations.\nLes enseignements dispensés sont répartis en quatre groupes de matières : des enseignements à caractère général, des disciplines fondamentales, un enseignement professionnel et une formation pratique par le biais de projets et de stages.",
+        "Competences": [
+            "La production, la distribution, la transformation et l'utilisation de l'énergie électrique. la conception et la mise en oeuvre d'ensembles formés par les machines électriques et les convertisseurs qui les alimentent;",
+            "L'automatique et tous les aspects qui interviennent dans la commande des systèmes industriels;Dans la partie électronique, les systèmes sont étudiés du point de vue de leur conception, réalisation et mise en oeuvre.",
+            "La gestion de la maintenance, l’ingénierie de la qualité et l’amélioration des processus industriels et assurance qualité"
+        ],
+        "Semestre 1": [
+            "Mathématiques pour l’Ingénieur",
+            "Informatique",
+            "Électronique",
+            "Instrumentation et Capteurs",
+            "Energétique et MDF",
+            "Communication professionnelle"
+        ],
+        "Semestre 2": [
+            "Ingénierie de la Qualité",
+            "Automatique linéaire continue et échantillonné",
+            "Conception et Procédés de fabrication",
+            "Automatisme",
+            "Culture et Gestion de l’entreprise",
+            "Anglais Technique"
+        ],
+        "Semestre 3": [
+            "Mathématiques pour l’ingénieur II",
+            "Électrotechnique",
+            "Traitement de signal",
+            "Les sources d’énergies et réseaux de distribution",
+            "Machines Industrielles",
+            "GRH & Droit du travail"
+        ],
+        "Semestre 4": [
+            "Gestion et Maintenance & Sûreté de fonctionnement",
+            "Machines électriques",
+            "Électronique de puissance",
+            "Systèmes à Microprocesseurs et à Microcontrôleurs",
+            "Soft Skills",
+            "Analyse Gestion de projets/ Comptabilité générale et analytique"
+        ],
+        "Semestre 5": [
+            "Modélisation et Commande des machines",
+            "Amélioration des processus industriels et Assurance Qualité",
+            "Automatique Avancée et électronique des systèmes",
+            "Systèmes embarqués et Temps réel",
+            "Réseaux et Télécommunication",
+            "Innovation et Développement Durable"
+        ],
+        "Semestre 6": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr. Ibrahim HADJ BARAKA",
+        "Coordinnateur Email": "ihadjbaraka@uae.ac.ma"
+    },
+    "di-genie-industriel": {
+        "Description": "L'activité de l'ingénieur industriel s'étend des premiers contacts avec les clients jusqu'au recyclage du produit qu'il a conçu. Il assumera donc la responsabilité technique, économique et écologique de son projet. L’ingénieur mécanicien intervient dans différents domaines d’activités : automobile, sidérurgie, aéronautique, machines outils, biens de consommation, agroalimentaire.\nL’ingénieur mécanicien s’intègre facilement au sein d’une PME qu’au sein d’une grande entreprise. Dans ces secteurs d’activités il occupera des postes clés dans les domaines suivants: Recherche et développement, Bureaux d’Etudes, Conception et Fabrication, Services Production, Qualité, Maintenance, Services Logistiques, Responsable projet et développement, Vente, Mise en service, Exploitation, Gestion et administration, Formation.",
+        "Competences": [
+            "L'activité de l'ingénieur industriel s'étend des premiers contacts avec les clients jusqu'au recyclage du produit qu'il a conçu. Il assumera donc la responsabilité technique, économique et écologique de son projet. L’ingénieur mécanicien intervient dans différents domaines d’activités : automobile, sidérurgie, aéronautique, machines outils, biens de consommation, agroalimentaire.",
+            "L’ingénieur mécanicien s’intègre facilement au sein d’une PME qu’au sein d’une grande entreprise. Dans ces secteurs d’activités il occupera des postes clés dans les domaines suivants: Recherche et développement, Bureaux d’Etudes, Conception et Fabrication, Services Production, Qualité, Maintenance, Services Logistiques, Responsable projet et développement, Vente, Mise en service, Exploitation, Gestion et administration, Formation."
+        ],
+        "Semestre 1": [
+            "Mathématiques pour l’Ingénieur",
+            "Programmation C++ / JAVA",
+            "Automatique linière continue et échantillonné",
+            "Électronique",
+            "Énergétique et mécanique des fluides",
+            "Techniques d’expression et de communication"
+        ],
+        "Semestre 2": [
+            "Systèmes d’informations et base de données",
+            "Électricité industrielle",
+            "Automatisme",
+            "Conception & Procédés de Fabrication",
+            "Métrologie et Instrumentation",
+            "Culture et Gestion de l’Entreprise"
+        ],
+        "Semestre 3": [
+            "Méthodes Numériques et Optimisation des Processus",
+            "Électrotechnique et Machines Électriques",
+            "Automatique linéaire continue et échantillonné",
+            "Anglais Scientifique",
+            "Machines Industrielles",
+            "RDM et Matériaux"
+        ],
+        "Semestre 4": [
+            "Fiabilité Mécanique",
+            "Construction Mécanique",
+            "Fabrication Mécanique",
+            "Gestion de la Maintenance & Sûreté de fonctionnement",
+            "Ingénierie Matériaux & Vibrations Mécaniques",
+            "Communication professionnelle"
+        ],
+        "Semestre 5": [
+            "Gestion de Production et management de projet",
+            "GRH et Comptabilité Analytique",
+            "QSE et Laen Manufacturing",
+            "Outils de la Qualité et six sigma",
+            "Logistique, Gestion intégrée & transport",
+            "Innovation Et développement durable"
+        ],
+        "Semestre 6": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr. Zoubir ELFELSOUFI",
+        "Coordinnateur Email": "zefelsoufi@uae.ac.ma"
+    },
+    "di-geoinformation": {
+        "Description": "Le principal objectif de cette filière est de former des ingénieurs \"géo-informaticiens cartographes gestionnaires de l’information spatiale\" polyvalents, qui s'intéressent prioritairement à l'organisation, au traitement, à la gestion et à la production des données géographiques et environnementales au moyen de la cartographie, de la télédétection, de l'analyse spatiale quantitative et des systèmes d'informations géographiques.\nCe programme permet à l'étudiant d’acquérir les connaissances et les compétences en géo-information et les technologies de l’information requises pour la mise en place d’infrastructures informatiques de pointe au service de la donnée géo-spatiale.\nPour atteindre cet objectif, le programme s’appui sur une démarche active de prise en main des méthodes et outils de la géo-information résolument tournée vers les applications. Ils combinent des cours théoriques et pratiques incluant aussi des travaux de terrain et des travaux personnels encadrés, des études de cas de montage et de conduite de projets, des applications opérationnelles et des stages en milieux professionnels.",
+        "Competences": [
+            "Chef de projet informatique",
+            "Administrateur de données",
+            "Directeur de service cartographique",
+            "Expert en acquisition et traitement de données spatiales",
+            "Ingénieur adjoint en Gestion des réseaux (transport, distribution..)",
+            "Expert en aménagement et développement durable",
+            "Chef de mission géodésique et topographique…etc"
+        ],
+        "Semestre 1": [
+            "Algorithmique et programmation",
+            "Compléments de mathématique et Analyse numérique",
+            "Statistique/Analyse des données",
+            "Bases physiques de la télédétection/Traitement du signal",
+            "Communication professionnelle",
+            "Systèmes d’information et réseaux informatique"
+        ],
+        "Semestre 2": [
+            "Cartographie numérique et DAO",
+            "Programmation et modélisation Objet",
+            "Information géographique et systèmes de projection",
+            "Géométrie analytique et algorithmique",
+            "Anglais 1",
+            "Optimisation et analyse de systèmes"
+        ],
+        "Semestre 3": [
+            "Géodésie/Localisation par satellite (GPS)",
+            "Topographie",
+            "Bases de données spatiales et relationnelles",
+            "Communication professionnelle/Méthode de recherche",
+            "Méthode d’analyse spatiales",
+            "Systèmes d’information géographique"
+        ],
+        "Semestre 4": [
+            "Télédétection Radar/Lidar",
+            "Télédétection et traitement d’images optique",
+            "Photogrammétrie",
+            "Programmation pour les SIG et pour la télédétection",
+            "Anglais 2",
+            "Wabemapping & Développement mobile"
+        ],
+        "Semestre 5": [
+            "Systèmes de Management de la qualité/Gestion del’entreprise & des ressources",
+            "Géoinformation et gestion de l’environnement et du territoire",
+            "SIG et prise de décision",
+            "Gestion et management de projet en Géoinformation",
+            "Gestion des réseaux et développement socioéconomique",
+            "Administration des données spatiales"
+        ],
+        "Semestre 6": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Jamal Eddine EL ABDELLAOUI",
+        "Coordinnateur Email": "j.elabdellaoui@uae.ac.ma"
+    },
+    "di-logiciels-et-systemes-intelligents": {
+        "Competences": [
+            "Concevoir et développer des plates formes logiciels desktop, logiciel et mobile",
+            "Concevoir et mettre en place des systèmes d’aide à la décision",
+            "Administrer une infrastructure informatique",
+            "Gérer et conduire un projet informatique"
+        ],
+        "Semestre 1": [
+            "Architecture des ordinateurs & systèmes d'exploitation",
+            "Architecture réseaux & protocoles",
+            "Systèmes d’informations & bases de données",
+            "Programmation Orientée Objets en C++",
+            "Mathématiques pour l’ingénieur",
+            "Anglais et techniques de rédaction"
+        ],
+        "Semestre 2": [
+            "Programmation Orientée Objets en Java et Programmation Mobile",
+            "Développement web et Frameworks (php, zend, symfony",
+            "Théorie des graphes & Applications",
+            "Conception Orienté Objet (UML) & Qualité Logiciel",
+            "Statistique descriptive et inférentielle",
+            "Management & comptabilité"
+        ],
+        "Semestre 3": [
+            "Systèmes embarqués & Internet des objets",
+            "Gestion de projet Informatique & Planification des ressources d'entreprise (open ERP)",
+            "Administration des bases de données",
+            "Méthodologies de l'Intelligence Artificielle",
+            "Architectures web distribuées (J2EE)",
+            "Anglais Avancée & Techniques d'exposition"
+        ],
+        "Semestre 4": [
+            "Systèmes d’informations décisionnels & data mininig",
+            "Technologies .NET",
+            "Machine Learning & Systèmes multi-agents",
+            "Administration systèmes et réseaux",
+            "Procesus audit & Urbanisation des systèmes d’informations",
+            "Droit & gestion d'entreprise"
+        ],
+        "Semestre 5": [
+            "Business Intelligence & Big Data",
+            "Vision Artificielle",
+            "Sécurité Intelligente des Systèmes d’informations",
+            "Cloud Intelligence & virtualisation",
+            "Intelligence économique & Soft Skills",
+            "Anglais professionnel & techniques de coaching"
+        ],
+        "Semestre 6": [
+            "Projet de fin d’étude"
+        ],
+        "Coordinnateur": "Pr.Lotfi EL AACHAK",
+        "Coordinnateur Email": "lelaachak@uae.ac.ma"
+    }
+}

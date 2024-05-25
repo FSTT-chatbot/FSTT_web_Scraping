@@ -1,0 +1,53 @@
+{
+    "Formations": {
+        "Formations DEUST": [
+            "BIOLOGIE-CHIMIE-GEOLOGIE",
+            "GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE",
+            "MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE",
+            "MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE"
+        ],
+        "Formations Licence": [
+            "Analytique des données",
+            "Biotechnologies (Options : animale et végétale)",
+            "Design Industriel et Productique (DIP)",
+            "Énergies Renouvelables (EnR)",
+            "Génie civil",
+            "Génie des Procédés",
+            "Génie Électrique Option: Génie\nÉlectrique & Système Industriel",
+            "Génie Industriel",
+            "Génie Informatique",
+            "Géosciences Appliquées",
+            "Ingénierie de Développement d’Applications\nInformatiques",
+            "Ingénierie Statistique",
+            "Mathématiques et Applications",
+            "Mathématiques et Informatique Décisionnelles",
+            "Risques et Ressources Naturels",
+            "Statistique et Science des Données",
+            "Techniques d'Analyses Chimiques (TAC)"
+        ],
+        "Formations Master": [
+            "Analyse Appliquée et Ingénierie Statistique",
+            "Bases Cellulaires et Moléculaires en Biotechnologie",
+            "Environnement, Aquaculture et Développement Durable",
+            "Géoressources Energétiques et Réservoirs",
+            "Génie Civil",
+            "Génie des Matériaux pour Plasturgie et Métallurgie",
+            "Génie Energétique",
+            "Ingénierie Environnementale, Changement Climatique et Développement Durable",
+            "Intelligence Artificielle et Sciences de Données",
+            "Mobiquité et Big Data",
+            "Modélisation Mathématique et Science de Données",
+            " Sciences Agroalimentaires",
+            "Sciences de l'Environnement",
+            "Sciences du Littoral: Approche Pluridisciplinaire",
+            "Sécurité IT et Big Data",
+            "Systèmes Informatiques  et Mobiles"
+        ],
+        "Formations Cycle Ingénieur": [
+            "DI: Génie Electrique et Management Industriel",
+            "DI: Génie Industriel",
+            "DI: Géoinformation",
+            "Logiciels et Systèmes Intelligents"
+        ]
+    }
+}
